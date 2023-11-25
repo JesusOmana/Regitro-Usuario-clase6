@@ -1,3 +1,6 @@
+DEPLOY ==> https://jesusomana.github.io/Regitro-Usuario-clase6/
+
+
 Registro de Usuario
 
 Se creo un Registro de Usuario donde se hace una validacion de cada uno de los valores integrados, se uso YUP para dichas validacion, y a su vez permite la comprobacion por medio de las propiedades de YUP y la logica para comparar las "passwords" y ver si coinciden de lo contrario el registro no se efectua. En caso
